@@ -106,6 +106,7 @@ a:visited {
 }
 
 .books-and-lectures {
+  margin: 5px;
   display: grid;
   grid-template-rows: repeat(11, auto);
   grid-row-gap: 10px;
